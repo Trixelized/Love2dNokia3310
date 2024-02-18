@@ -3,6 +3,8 @@ Handles:
 - B/W to 2-color shader (jam palettes)
 - Very cheap audio
 
+Documented + sumneko notations :)
+
 Minimal setup example:
 ```lua
 local nokia = require("nokia3310")
